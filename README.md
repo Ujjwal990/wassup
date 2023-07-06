@@ -1,9 +1,12 @@
 # realtime-chat-app
 Realtime chat app using socket.io and vanilla JavaScript
 
-#### Demo: https://realtime-gyan-chat-app.herokuapp.com/
-
 ## Installation 
 After download or clone run `npm install` to install all the dependancies.
 
-🙏 If you find this repo helpful then don't forget to give a start ❇️ to this repository. :)
+## How to run
+After you followed the above steps, just hit `npm server` command in root directory
+
+## IMAGES
+![New User joining the chatroom](https://github.com/Ujjwal990/wassup/blob/master/New%20user.png)
+![Members chatting](https://github.com/Ujjwal990/wassup/blob/master/people%20chatting.png)
